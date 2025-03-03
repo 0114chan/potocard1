@@ -608,7 +608,7 @@ const PhotoCardPage: NextPage = () => {
                         htmlFor="frameColor"
                         style={{ display: 'block', marginBottom: '5px', color: '#ff69b4', fontWeight: '500' }}
                     >
-                        Change Color
+                        Color
                     </label>
                     <input
                         id="frameColor"
